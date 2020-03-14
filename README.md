@@ -13,16 +13,26 @@ Data-Level Hierarchical Classification framework is a machine learning method fo
 
 ![alt tag](./plots/Hierarchical-Tree-2.png)
 
-To reproduce the plots in the paper, run all the notebooks with name 'Plots - ...'.
 Usage:
 ---
+To reproduce the plots in the paper, run all the notebooks with name 'Plots - ...'.
+
 ```
 ./notebook/
 ```
-First method of augmentation: SMOTE. We need to extract features. To do so, run the following code:
+1(a). First method of augmentation: SMOTE. We need to extract features. To do so, run the following code:
 
 ```
 cd notebook/
-
 Open Jupyter notebook using Python 2.7 and run this script: a.Step 1 - Feature Extraction.ipynb
+```
+1(b). Perform hierarchical classification using the extracted features and automatically augment the training set using SMOTE technique.
+```
+cd notebook/
+Open Jupyter notebook using Python >= 3.5 and run this script: a.Step 2 - Hierarchical_classfication_with_SMOTE.ipynb
+```
+2(a). Second method of augmentation: RASLE - Randomly sample light curves from magnitude errors. We first augment the light curves and extract features from both the real and augmented light curves.
+```
+cd notebook/
+Open Jupyter notebook using Python >= 3.5 and run this script: b.Step 1 - Data Augmentation with RASLE and Feature Extraction.ipynb
 ```
