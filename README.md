@@ -12,3 +12,8 @@ Artificially creating new light curves for variable stars using three different 
 Data-Level Hierarchical Classification framework is a machine learning method for efficiently augmenting light curves at different level in a hierarchical way and perform classification of periodic variable stars using [The Catalina Surveys Southern Periodic Variable Catalog](http://nesssi.cacr.caltech.edu/DataRelease/VarcatS.html).
 
 ![alt tag](./plots/Hierarchical-Tree-2.png)
+
+Usage:
+```
+./astro_rcnn detect example
+```
