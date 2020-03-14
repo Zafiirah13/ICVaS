@@ -32,6 +32,7 @@ cd notebook/
 Open Jupyter notebook using Python >= 3.5 and run this script: a.Step 2 - Hierarchical_classfication_with_SMOTE.ipynb
 ```
 2(a). Second method of augmentation: RASLE - Randomly sample light curves from magnitude errors. We first augment the light curves and extract features from both the real and augmented light curves.
+![alt tag](./plots/RASLE.png)
 ```
 cd notebook/
 Open Jupyter notebook using Python >= 3.5 and run this script: b.Step 1 - Data Augmentation with RASLE and Feature Extraction.ipynb
