@@ -1,0 +1,1 @@
+{'objective': 'multi:softmax', 'subsample': 0.5, 'eta': 0.01, 'max_depth': 9}
