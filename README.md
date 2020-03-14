@@ -37,3 +37,13 @@ Open Jupyter notebook using Python >= 3.5 and run this script: a.Step 2 - Hierar
 cd notebook/
 Open Jupyter notebook using Python >= 3.5 and run this script: b.Step 1 - Data Augmentation with RASLE and Feature Extraction.ipynb
 ```
+
+2(b). Perform hierarchical classification using extracted features from RASLE method of dataaugmentation
+```
+cd notebook/
+Open Jupyter notebook using Python >= 3.5 and run this script: b.Step 2 - Hierarchical_classfication_with_RASLE.ipynb
+```
+
+3(a). Third Method of augmentation using Gaussian Process: GpFit. We first transform the light curve from time-domain to phase domain and apply GP on the LCs. We then randomly sample light curves from the posterior distribution. We then convert back the augmented LCs from phase domain to time-domain and then extract features from both the augmented and real LCs.
+![alt tag](./plots/GpFit1.png)
+![alt tag](./plots/GpFit2.png)
