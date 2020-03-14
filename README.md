@@ -13,7 +13,16 @@ Data-Level Hierarchical Classification framework is a machine learning method fo
 
 ![alt tag](./plots/Hierarchical-Tree-2.png)
 
+To reproduce the plots in the paper, run all the notebooks with name 'Plots - ...'.
 Usage:
+---
 ```
-./astro_rcnn detect example
+./notebook/
+```
+First method of augmentation: SMOTE. We need to extract features. To do so, run the following code:
+
+```
+cd notebook/
+
+Open Jupyter notebook using Python 2.7 and run this script: a.Step 1 - Feature Extraction.ipynb
 ```
