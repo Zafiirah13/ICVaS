@@ -1,1 +1,1 @@
-# Imbalance-Learning-for-Variable-Star-Classification-using-Machine-Learning
+# Imbalance Learning for Variable Star Classification using Machine Learning
