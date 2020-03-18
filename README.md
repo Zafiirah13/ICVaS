@@ -4,8 +4,8 @@ Artificially creating new light curves for variable stars using three different 
 
 *Reference Paper:* [Hosenie et al. 2020, MNRAS](https://doi.org/10.1093/mnras/staa642) or on [arXiv: Imbalance Learning for Variable Star Classification](https://arxiv.org/abs/2002.12386)
 
-*Corresponding Author:* 
-[Zafiirah Hosenie](https://www.linkedin.com/in/zafiirah-hosenie/), University of Manchester.
+*Corresponding Authors:* 
+[Zafiirah Hosenie](https://www.linkedin.com/in/zafiirah-hosenie/), Robert Lyon, Benjamin Stappers, Arrykrishna Mootoovaloo and Vanessa McBride.
 
 ## Description:
 
