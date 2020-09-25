@@ -57,6 +57,8 @@ Open Jupyter notebook using Python >= 2.7 and run this script: c.Step 1 - Data A
 ![alt tag](./plots/GpFit2.png)
 
 3(b). Perform hierarchical classification using extracted features from GpFit method of dataaugmentation
+
+
 ```
 cd notebook/
 Open Jupyter notebook using Python >= 3.5 and run this script: c.Step 2 - Hierarchical_classfication_with_GpFit.ipynb
