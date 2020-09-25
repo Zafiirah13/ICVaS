@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4049970.svg)](https://doi.org/10.5281/zenodo.4049970)
+[![issues](https://img.shields.io/github/issues/Zafiirah13/ICVaS)](https://github.com/Zafiirah13/ICVaS/issues)
+[![forks](https://img.shields.io/github/forks/Zafiirah13/ICVaS)](https://github.com/Zafiirah13/ICVaS/network/members)
+[![stars](https://img.shields.io/github/stars/Zafiirah13/ICVaS)](https://github.com/Zafiirah13/ICVaS/stargazers)
 # Imbalance Learning for Variable Star Classification using Machine Learning
 
 Artificially creating new light curves for variable stars using three different techniques: SMOTE, RASLE and GpFit. Afterward, applying these data augmentation techniques to construct a 'data-level' approach in a Hierachical Taxonomy to classify variable stars using Machine Learning.
